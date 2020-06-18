@@ -1,2 +1,2 @@
 # sts-xprmnt
-StS Experiment with netlify
+StS Experiment with NetlifyCMS.org and Gutsby
